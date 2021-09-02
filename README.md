@@ -1,16 +1,6 @@
-# climaty
+# Climaty
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Another app with a beautiful UI that can be launched on both ios and android devices.
+This app tells the user about the current temperature of the user's global location (after requesting access to user's location) along with a customized short message.
+The user can also browse the weather of any other city simply by pressing the _city button_ on the top right of the page, then typing out the city's name within the searchbar.
+To perform such tasks, I have used a REST API called "Open Weather Map"
